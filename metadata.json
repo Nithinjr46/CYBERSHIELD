@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield",
+  "description": "CyberShield: Stop Scams Before They Happen. B.E. CSE Community Project for scam risk analysis, explainable detection, and security awareness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
